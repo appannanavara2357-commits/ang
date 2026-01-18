@@ -1,3 +1,0 @@
-hello guys
-git commands are very imp.. 
-dont mis the classes...
