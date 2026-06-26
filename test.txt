@@ -1,4 +1,7 @@
+feature-login
+Hello Git
 master
 this files contains normal text
 Hello Git
+feature
 feature
