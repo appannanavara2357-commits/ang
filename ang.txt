@@ -2,3 +2,4 @@ Hai
 This is Nandeesh
 I am learning use of github commands in realtime senaria
 i  learnt many commands in github
+updated now 
